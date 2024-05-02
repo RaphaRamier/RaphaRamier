@@ -1,5 +1,5 @@
 # Bem vindo!
-### Me chamo Raphael Ramier, sou estudante de Data Science e Economia.
+### Me chamo Raphael Ramier, sou estudante Engenharia de Software.
 
 
 
